@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZXTest_Example' do
+  pod 'ZXTest', :path => '../'
+
+  target 'ZXTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
