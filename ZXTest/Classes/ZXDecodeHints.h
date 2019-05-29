@@ -15,6 +15,7 @@
  */
 
 #import "ZXBarcodeFormat.h"
+#import <Foundation/Foundation.h>
 
 @protocol ZXResultPointCallback;
 @class ZXIntArray;
