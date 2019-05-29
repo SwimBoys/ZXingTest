@@ -1,5 +1,5 @@
 PODS:
-  - ZXTest (0.1.0)
+  - ZXTest (0.2.0)
 
 DEPENDENCIES:
   - ZXTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZXTest: f8808eac40048ed26cacdc8ecaedd639ed2cb17b
+  ZXTest: a8124ea53195a96f00318ee3bd7b4f187e5c3e3a
 
 PODFILE CHECKSUM: b959a885d64a2a1d959cff3e34e42f89a5257086
 
